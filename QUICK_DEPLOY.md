@@ -1,16 +1,16 @@
-# 🚀 Быстрое развертывание на Vercel (5 минут!)
+# 🚀 Quick Deploy to Vercel (5 minutes!)
 
-## 📋 Пошаговый план:
+## 📋 Step-by-step plan:
 
-### 1. Создайте аккаунт на Vercel
-- Перейдите на [vercel.com](https://vercel.com)
-- Нажмите "Continue with GitHub" (если у вас есть GitHub)
-- Или создайте аккаунт с email
+### 1. Create Vercel account
+- Go to [vercel.com](https://vercel.com)
+- Click "Continue with GitHub" (if you have GitHub)
+- Or create account with email
 
-### 2. Загрузите проект на GitHub
+### 2. Upload project to GitHub
 ```bash
-# Создайте новый репозиторий на GitHub
-# Затем выполните:
+# Create new repository on GitHub
+# Then run:
 git init
 git add .
 git commit -m "Initial commit"
@@ -19,42 +19,42 @@ git remote add origin https://github.com/YOUR_USERNAME/fent-fun-clone.git
 git push -u origin main
 ```
 
-### 3. Разверните на Vercel
-- Войдите в [vercel.com/dashboard](https://vercel.com/dashboard)
-- Нажмите "New Project"
-- Выберите ваш GitHub репозиторий
-- Нажмите "Deploy"
+### 3. Deploy to Vercel
+- Go to [vercel.com/dashboard](https://vercel.com/dashboard)
+- Click "New Project"
+- Select your GitHub repository
+- Click "Deploy"
 
-### 4. Получите бесплатный домен
-- После развертывания получите URL: `your-project.vercel.app`
-- Это ваш бесплатный хостинг!
+### 4. Get free domain
+- After deployment get URL: `your-project.vercel.app`
+- This is your free hosting!
 
-## 🌐 Домен .fun (опционально)
+## 🌐 .fun domain (optional)
 
-### Бесплатный вариант:
-- Зарегистрируйтесь на [freenom.com](https://freenom.com)
-- Выберите домен .fun
-- Настройте DNS на Vercel
+### Free option:
+- Register on [freenom.com](https://freenom.com)
+- Choose .fun domain
+- Configure DNS to Vercel
 
-### Платный вариант:
-- Купите домен .fun на [namecheap.com](https://namecheap.com)
-- Стоимость: ~$10/год
+### Paid option:
+- Buy .fun domain on [namecheap.com](https://namecheap.com)
+- Cost: ~$10/year
 
-## 🎯 Что получите:
+## 🎯 What you get:
 
-✅ **Бесплатный хостинг** на Vercel  
-✅ **Автоматический HTTPS**  
-✅ **CDN по всему миру**  
-✅ **Автоматические деплои** при push в GitHub  
-✅ **Мониторинг производительности**  
-✅ **Возможность подключить домен .fun**  
+✅ **Free hosting** on Vercel  
+✅ **Automatic HTTPS**  
+✅ **Global CDN**  
+✅ **Automatic deploys** on GitHub push  
+✅ **Performance monitoring**  
+✅ **Ability to connect .fun domain**  
 
-## 🚨 Если что-то не работает:
+## 🚨 If something doesn't work:
 
-1. **Проверьте консоль браузера** на ошибки
-2. **Убедитесь, что WebGL поддерживается**
-3. **Проверьте, что все файлы загрузились**
+1. **Check browser console** for errors
+2. **Make sure WebGL is supported**
+3. **Check that all files loaded**
 
 ---
 
-🎉 **Ваш 3D космический проект будет доступен всем 24/7!** 🎉
+🎉 **Your 3D space project will be available to everyone 24/7!** 🎉

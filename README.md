@@ -1,110 +1,110 @@
-# 🌌 Fent Fun Clone - Футуристичная 3D Вселенная
+# 🌌 Fent Fun Clone - Futuristic 3D Universe
 
 ![Fent Fun Clone](https://img.shields.io/badge/React-18.2.0-blue.svg)
 ![Three.js](https://img.shields.io/badge/Three.js-0.159.0-orange.svg)
 ![Vite](https://img.shields.io/badge/Vite-5.0.8-purple.svg)
 
-**Современная 3D веб-игра в стиле "Фантастической четвёрки 2025"** с интерактивным космосом, реалистичными планетами и футуристичным интерфейсом.
+**Modern 3D web game inspired by "Fantastic Four 2025"** with interactive space, realistic planets and futuristic interface.
 
-## ✨ Возможности
+## ✨ Features
 
-- 🌍 **Реалистичная Земля** с океанами, континентами и атмосферой
-- 🌟 **Интерактивные планеты** - Солнце, Луна, Марс, Венера, Юпитер
-- 🔄 **Естественное вращение** всех планет вокруг своей оси
-- 🎮 **Полёт камеры** - кликайте по планетам для перемещения
-- ⚡ **Голографические эффекты** и энергетические поля
-- 🎨 **Киберпанк дизайн** с квантовыми анимациями
-- 🚀 **Экран загрузки** в стиле криптовалют
-- 📱 **Полноэкранный режим** без границ
+- 🌍 **Realistic Earth** with oceans, continents and atmosphere
+- 🌟 **Interactive planets** - Sun, Moon, Mars, Venus, Jupiter
+- 🔄 **Natural rotation** of all planets around their axis
+- 🎮 **Camera flight** - click on planets to move around
+- ⚡ **Holographic effects** and energy fields
+- 🎨 **Cyberpunk design** with quantum animations
+- 🚀 **Loading screen** in crypto style
+- 📱 **Fullscreen mode** without borders
 
-## 🛠️ Технологии
+## 🛠️ Tech Stack
 
-- **React 18** - современный UI фреймворк
-- **Three.js** - мощная 3D графика
-- **@react-three/fiber** - React интеграция для Three.js
-- **@react-three/drei** - полезные 3D компоненты
-- **Vite** - быстрая сборка
-- **CSS3** - анимации и стили
+- **React 18** - modern UI framework
+- **Three.js** - powerful 3D graphics
+- **@react-three/fiber** - React integration for Three.js
+- **@react-three/drei** - useful 3D components
+- **Vite** - fast build tool
+- **CSS3** - animations and styles
 
-## 🚀 Быстрый старт
+## 🚀 Quick Start
 
 \`\`\`bash
-# Клонируйте репозиторий
+# Clone the repository
 git clone https://github.com/YOUR_USERNAME/fent-fun-clone.git
 
-# Перейдите в папку проекта
+# Navigate to project folder
 cd fent-fun-clone
 
-# Установите зависимости
+# Install dependencies
 npm install
 
-# Запустите проект
+# Run the project
 npm run dev
 \`\`\`
 
-Откройте [http://localhost:5173](http://localhost:5173) в браузере.
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 🎮 Как играть
+## 🎮 How to Play
 
-1. **Дождитесь загрузки** - наслаждайтесь экраном загрузки в стиле криптовалют
-2. **Исследуйте космос** - используйте мышь для вращения камеры
-3. **Кликайте по планетам** - камера плавно перелетит к выбранной планете
-4. **Копируйте контракт** - нажмите на кнопку копирования внизу
-5. **Следите за социальными сетями** - ссылки в боковых панелях
+1. **Wait for loading** - enjoy the crypto-style loading screen
+2. **Explore space** - use mouse to rotate camera
+3. **Click on planets** - camera will smoothly fly to selected planet
+4. **Copy contract** - click the copy button at the bottom
+5. **Follow social media** - links in side panels
 
-## 🌟 Особенности планет
+## 🌟 Planet Features
 
-| Планета | Цвет | Особенности |
+| Planet | Color | Features |
 |---------|------|-------------|
-| 🌍 Земля | Синий/Зелёный | Океаны, континенты, облака, атмосфера |
-| 🌟 Солнце | Оранжевый | Эмиссивное свечение, голографическая корона |
-| 🌙 Луна | Серебристый | Реалистичная поверхность, энергетическое поле |
-| 🔴 Марс | Красноватый | Пустынная поверхность, лавовые потоки |
-| 🟡 Венера | Золотой | Плотная атмосфера, биощит |
-| 🟤 Юпитер | Коричневый | Газовый гигант, кристальный щит |
+| 🌍 Earth | Blue/Green | Oceans, continents, clouds, atmosphere |
+| 🌟 Sun | Orange | Emissive glow, holographic corona |
+| 🌙 Moon | Silver | Realistic surface, energy field |
+| 🔴 Mars | Reddish | Desert surface, lava flows |
+| 🟡 Venus | Golden | Dense atmosphere, bio-shield |
+| 🟤 Jupiter | Brown | Gas giant, crystal shield |
 
-## 🎨 Дизайн
+## 🎨 Design
 
-Вдохновлён фильмом **"Фантастическая четвёрка 2025"**:
-- Неоновые свечения и голографические эффекты
-- Квантовые глитч-анимации
-- Современная цветовая палитра (голубой, фиолетовый, оранжевый)
-- Футуристичные материалы и текстуры
+Inspired by **"Fantastic Four 2025"** movie:
+- Neon glows and holographic effects
+- Quantum glitch animations
+- Modern color palette (blue, purple, orange)
+- Futuristic materials and textures
 
-## 📁 Структура проекта
+## 📁 Project Structure
 
 \`\`\`
 fent-fun-clone/
 ├── src/
-│   ├── App.jsx          # Главный компонент с 3D сценой
-│   ├── App.css          # Стили и анимации
-│   └── main.jsx         # Точка входа
-├── public/              # Статические файлы
-├── package.json         # Зависимости проекта
-└── README.md            # Документация
+│   ├── App.jsx          # Main component with 3D scene
+│   ├── App.css          # Styles and animations
+│   └── main.jsx         # Entry point
+├── public/              # Static files
+├── package.json         # Project dependencies
+└── README.md            # Documentation
 \`\`\`
 
-## 🔧 Разработка
+## 🔧 Development
 
 \`\`\`bash
-# Разработка
+# Development
 npm run dev
 
-# Сборка для продакшена
+# Build for production
 npm run build
 
-# Предварительный просмотр сборки
+# Preview build
 npm run preview
 \`\`\`
 
-## 📄 Лицензия
+## 📄 License
 
-MIT License - используйте свободно!
+MIT License - feel free to use!
 
-## 🤝 Вклад в проект
+## 🤝 Contributing
 
-Мы приветствуем вклад в развитие проекта! Создавайте issues и pull requests.
+We welcome contributions to the project! Create issues and pull requests.
 
 ---
 
-⭐ **Поставьте звёздочку, если проект понравился!** ⭐
+⭐ **Give it a star if you liked the project!** ⭐
